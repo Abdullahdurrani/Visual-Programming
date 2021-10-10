@@ -1,0 +1,10 @@
+D:\abdullah\6th Semester\Visual Programming\Sep-27\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+D:\abdullah\6th Semester\Visual Programming\Sep-27\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+D:\abdullah\6th Semester\Visual Programming\Sep-27\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+D:\abdullah\6th Semester\Visual Programming\Sep-27\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.AssemblyReference.cache
+D:\abdullah\6th Semester\Visual Programming\Sep-27\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.Form1.resources
+D:\abdullah\6th Semester\Visual Programming\Sep-27\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.Properties.Resources.resources
+D:\abdullah\6th Semester\Visual Programming\Sep-27\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.GenerateResource.cache
+D:\abdullah\6th Semester\Visual Programming\Sep-27\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+D:\abdullah\6th Semester\Visual Programming\Sep-27\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+D:\abdullah\6th Semester\Visual Programming\Sep-27\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb

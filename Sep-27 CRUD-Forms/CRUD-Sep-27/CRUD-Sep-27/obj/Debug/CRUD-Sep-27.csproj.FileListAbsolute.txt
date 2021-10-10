@@ -1,0 +1,10 @@
+D:\abdullah\6th Semester\Visual Programming\Sep-27\CRUD-Sep-27\CRUD-Sep-27\bin\Debug\CRUD-Sep-27.exe.config
+D:\abdullah\6th Semester\Visual Programming\Sep-27\CRUD-Sep-27\CRUD-Sep-27\bin\Debug\CRUD-Sep-27.exe
+D:\abdullah\6th Semester\Visual Programming\Sep-27\CRUD-Sep-27\CRUD-Sep-27\bin\Debug\CRUD-Sep-27.pdb
+D:\abdullah\6th Semester\Visual Programming\Sep-27\CRUD-Sep-27\CRUD-Sep-27\obj\Debug\CRUD-Sep-27.csproj.AssemblyReference.cache
+D:\abdullah\6th Semester\Visual Programming\Sep-27\CRUD-Sep-27\CRUD-Sep-27\obj\Debug\CRUD_Sep_27.Form1.resources
+D:\abdullah\6th Semester\Visual Programming\Sep-27\CRUD-Sep-27\CRUD-Sep-27\obj\Debug\CRUD_Sep_27.Properties.Resources.resources
+D:\abdullah\6th Semester\Visual Programming\Sep-27\CRUD-Sep-27\CRUD-Sep-27\obj\Debug\CRUD-Sep-27.csproj.GenerateResource.cache
+D:\abdullah\6th Semester\Visual Programming\Sep-27\CRUD-Sep-27\CRUD-Sep-27\obj\Debug\CRUD-Sep-27.csproj.CoreCompileInputs.cache
+D:\abdullah\6th Semester\Visual Programming\Sep-27\CRUD-Sep-27\CRUD-Sep-27\obj\Debug\CRUD-Sep-27.exe
+D:\abdullah\6th Semester\Visual Programming\Sep-27\CRUD-Sep-27\CRUD-Sep-27\obj\Debug\CRUD-Sep-27.pdb

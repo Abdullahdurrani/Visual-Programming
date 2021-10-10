@@ -1,0 +1,10 @@
+D:\abdullah\6th Semester\Visual Programming\Sep-27\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\abdullah\6th Semester\Visual Programming\Sep-27\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\abdullah\6th Semester\Visual Programming\Sep-27\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\abdullah\6th Semester\Visual Programming\Sep-27\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\abdullah\6th Semester\Visual Programming\Sep-27\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\abdullah\6th Semester\Visual Programming\Sep-27\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\abdullah\6th Semester\Visual Programming\Sep-27\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\abdullah\6th Semester\Visual Programming\Sep-27\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\abdullah\6th Semester\Visual Programming\Sep-27\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\abdullah\6th Semester\Visual Programming\Sep-27\Calculator\Calculator\obj\Debug\Calculator.pdb
