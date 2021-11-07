@@ -48,5 +48,15 @@ namespace DAL
             string query = "SELECT * FROM Users";
             return dbCon.Search(query);
         }
+        public DataTable UserGetLimitedDAL()
+        {
+            string query = "SELECT * FROM Users WHERE AccessLevel=2 OR AccessLevel=3";
+            return dbCon.Search(query);
+        }
+        public DataTable UserGetDAL(User user)
+        {
+            string query = "SELECT * FROM Users WHERE Id=" + user.Id + "";
+            return dbCon.Search(query);
+        }
     }
 }

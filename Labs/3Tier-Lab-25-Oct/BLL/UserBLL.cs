@@ -37,5 +37,15 @@ namespace BLL
         {
             return userDAL.UserGetAllDAL();
         }
+
+        public DataTable UserGetLimitedBLL()
+        {
+            return userDAL.UserGetLimitedDAL();
+        }
+
+        public DataTable UserGetBLL(User user)
+        {
+            return userDAL.UserGetDAL(user);
+        }
     }
 }

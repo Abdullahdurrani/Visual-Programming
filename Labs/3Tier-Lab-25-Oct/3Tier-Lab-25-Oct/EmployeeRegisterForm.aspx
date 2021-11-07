@@ -131,13 +131,8 @@
                 <td></td>
 
                 <td>
-                    <asp:Button ID="btnRegister" Text="Register" runat="server" OnClick="btnRegister_Click" />
+                    <asp:Button ID="btnRegister" Text="Register" runat="server" OnClick="btnRegister_Click" style="height: 29px" />
                     &nbsp;
-                    <asp:Button ID="btnDelete" Text="Delete" runat="server" OnClick="btnDelete_Click" />
-                    &nbsp;
-                    <asp:Button ID="btnUpdate" Text="Update" runat="server" OnClick="btnUpdate_Click" />
-                    &nbsp;
-                    <asp:Button ID="btnSearch" Text="Search" runat="server" OnClick="btnSearch_Click" />
                 </td>
             </tr>
 
