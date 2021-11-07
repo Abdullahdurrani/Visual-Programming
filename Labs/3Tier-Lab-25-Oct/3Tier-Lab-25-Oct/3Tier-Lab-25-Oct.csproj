@@ -106,13 +106,18 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="AdminPanelForm.aspx" />
+    <Content Include="AdminRegister.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
+    <Content Include="CustomerRegisterForm.aspx" />
     <Content Include="Default.aspx" />
+    <Content Include="EmployeePanelForm.aspx" />
+    <Content Include="EmployeeRegisterForm.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -125,6 +130,7 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="LoginForm.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
@@ -156,14 +162,28 @@
     <Content Include="Site.Master" />
     <Content Include="StudentForm.aspx" />
     <Content Include="SubjectForm.aspx" />
+    <Content Include="SupplierRegisterForm.aspx" />
     <Content Include="TeacherForm.aspx" />
-    <Content Include="UserForm.aspx" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdminPanelForm.aspx.cs">
+      <DependentUpon>AdminPanelForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminPanelForm.aspx.designer.cs">
+      <DependentUpon>AdminPanelForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminRegister.aspx.cs">
+      <DependentUpon>AdminRegister.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminRegister.aspx.designer.cs">
+      <DependentUpon>AdminRegister.aspx</DependentUpon>
+    </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="About.aspx.cs">
       <DependentUpon>About.aspx</DependentUpon>
@@ -180,6 +200,13 @@
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
     </Compile>
+    <Compile Include="CustomerRegisterForm.aspx.cs">
+      <DependentUpon>CustomerRegisterForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerRegisterForm.aspx.designer.cs">
+      <DependentUpon>CustomerRegisterForm.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -187,8 +214,29 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="EmployeePanelForm.aspx.cs">
+      <DependentUpon>EmployeePanelForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EmployeePanelForm.aspx.designer.cs">
+      <DependentUpon>EmployeePanelForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeRegisterForm.aspx.cs">
+      <DependentUpon>EmployeeRegisterForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EmployeeRegisterForm.aspx.designer.cs">
+      <DependentUpon>EmployeeRegisterForm.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.aspx.cs">
+      <DependentUpon>LoginForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LoginForm.aspx.designer.cs">
+      <DependentUpon>LoginForm.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
@@ -219,19 +267,19 @@
     <Compile Include="SubjectForm.aspx.designer.cs">
       <DependentUpon>SubjectForm.aspx</DependentUpon>
     </Compile>
+    <Compile Include="SupplierRegisterForm.aspx.cs">
+      <DependentUpon>SupplierRegisterForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SupplierRegisterForm.aspx.designer.cs">
+      <DependentUpon>SupplierRegisterForm.aspx</DependentUpon>
+    </Compile>
     <Compile Include="TeacherForm.aspx.cs">
       <DependentUpon>TeacherForm.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="TeacherForm.aspx.designer.cs">
       <DependentUpon>TeacherForm.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="UserForm.aspx.cs">
-      <DependentUpon>UserForm.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="UserForm.aspx.designer.cs">
-      <DependentUpon>UserForm.aspx</DependentUpon>
     </Compile>
     <Compile Include="ViewSwitcher.ascx.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>

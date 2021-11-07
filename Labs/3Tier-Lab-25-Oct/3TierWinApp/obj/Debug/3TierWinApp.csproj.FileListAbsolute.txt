@@ -8,7 +8,6 @@ D:\abdullah\6th Semester\Visual Programming\Labs\3Tier-Lab-25-Oct\3TierWinApp\bi
 D:\abdullah\6th Semester\Visual Programming\Labs\3Tier-Lab-25-Oct\3TierWinApp\bin\Debug\BLL.pdb
 D:\abdullah\6th Semester\Visual Programming\Labs\3Tier-Lab-25-Oct\3TierWinApp\bin\Debug\DAL.pdb
 D:\abdullah\6th Semester\Visual Programming\Labs\3Tier-Lab-25-Oct\3TierWinApp\obj\Debug\3TierWinApp.csproj.AssemblyReference.cache
-D:\abdullah\6th Semester\Visual Programming\Labs\3Tier-Lab-25-Oct\3TierWinApp\obj\Debug\_3TierWinApp.Form1.resources
 D:\abdullah\6th Semester\Visual Programming\Labs\3Tier-Lab-25-Oct\3TierWinApp\obj\Debug\_3TierWinApp.Properties.Resources.resources
 D:\abdullah\6th Semester\Visual Programming\Labs\3Tier-Lab-25-Oct\3TierWinApp\obj\Debug\3TierWinApp.csproj.GenerateResource.cache
 D:\abdullah\6th Semester\Visual Programming\Labs\3Tier-Lab-25-Oct\3TierWinApp\obj\Debug\3TierWinApp.csproj.CoreCompileInputs.cache

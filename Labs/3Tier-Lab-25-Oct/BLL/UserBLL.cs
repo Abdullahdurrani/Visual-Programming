@@ -32,6 +32,7 @@ namespace BLL
         {
             return userDAL.UserSearchDAL(user);
         }
+
         public DataTable UserGetAllBLL()
         {
             return userDAL.UserGetAllDAL();
