@@ -11,7 +11,7 @@ namespace _3Tier_Lab_25_Oct
 {
 
 
-    public partial class SupplierRegisterForm
+    public partial class SupplierPanelForm
     {
 
         /// <summary>
@@ -222,22 +222,22 @@ namespace _3Tier_Lab_25_Oct
         protected global::System.Web.UI.WebControls.TextBox txtOrders;
 
         /// <summary>
-        /// btnRegister control.
+        /// btnDelete control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnRegister;
+        protected global::System.Web.UI.WebControls.Button btnDelete;
 
         /// <summary>
-        /// btnLogin control.
+        /// btnUpdate control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnLogin;
+        protected global::System.Web.UI.WebControls.Button btnUpdate;
 
         /// <summary>
         /// lblResult control.
@@ -249,12 +249,12 @@ namespace _3Tier_Lab_25_Oct
         protected global::System.Web.UI.WebControls.Label lblResult;
 
         /// <summary>
-        /// gridViewUser control.
+        /// gridView control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView gridViewUser;
+        protected global::System.Web.UI.WebControls.GridView gridView;
     }
 }

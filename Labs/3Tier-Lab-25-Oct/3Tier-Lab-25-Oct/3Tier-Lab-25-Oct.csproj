@@ -114,6 +114,7 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
+    <Content Include="CustomerPanelForm.aspx" />
     <Content Include="CustomerRegisterForm.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="EmployeePanelForm.aspx" />
@@ -162,6 +163,7 @@
     <Content Include="Site.Master" />
     <Content Include="StudentForm.aspx" />
     <Content Include="SubjectForm.aspx" />
+    <Content Include="SupplierPanelForm.aspx" />
     <Content Include="SupplierRegisterForm.aspx" />
     <Content Include="TeacherForm.aspx" />
     <Content Include="ViewSwitcher.ascx" />
@@ -199,6 +201,13 @@
     </Compile>
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerPanelForm.aspx.cs">
+      <DependentUpon>CustomerPanelForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomerPanelForm.aspx.designer.cs">
+      <DependentUpon>CustomerPanelForm.aspx</DependentUpon>
     </Compile>
     <Compile Include="CustomerRegisterForm.aspx.cs">
       <DependentUpon>CustomerRegisterForm.aspx</DependentUpon>
@@ -266,6 +275,13 @@
     </Compile>
     <Compile Include="SubjectForm.aspx.designer.cs">
       <DependentUpon>SubjectForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierPanelForm.aspx.cs">
+      <DependentUpon>SupplierPanelForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SupplierPanelForm.aspx.designer.cs">
+      <DependentUpon>SupplierPanelForm.aspx</DependentUpon>
     </Compile>
     <Compile Include="SupplierRegisterForm.aspx.cs">
       <DependentUpon>SupplierRegisterForm.aspx</DependentUpon>

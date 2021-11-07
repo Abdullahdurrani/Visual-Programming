@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="SupplierRegisterForm.aspx.cs" Inherits="_3Tier_Lab_25_Oct.SupplierRegisterForm" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="SupplierPanelForm.aspx.cs" Inherits="_3Tier_Lab_25_Oct.SupplierPanelForm" %>
 
 <!DOCTYPE html>
 
@@ -8,7 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-         <table>
+        <table>
 
             <tr>
                 <td>
@@ -113,9 +113,9 @@
                 <td></td>
 
                 <td>
-                    <asp:Button ID="btnRegister" Text="Sign Up" runat="server" OnClick="btnRegister_Click" />
+                    <asp:Button ID="btnDelete" Text="Delete your account" runat="server" OnClick="btnDelete_Click" />
                     &nbsp;
-                    <asp:Button ID="btnLogin" Text="Login" runat="server" OnClick="btnLogin_Click" />
+                    <asp:Button ID="btnUpdate" Text="Update Data" runat="server" OnClick="btnUpdate_Click" />
                 </td>
             </tr>
 
@@ -130,9 +130,10 @@
                 <td>
                 </td>
             </tr>
+
             <tr>
                 <td colspan="3">
-                    <asp:GridView ID="gridViewUser" runat="server"></asp:GridView>
+                    <asp:GridView ID="gridView" runat="server"></asp:GridView>
                 </td>
             </tr>
 
