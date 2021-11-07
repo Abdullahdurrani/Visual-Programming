@@ -10,7 +10,10 @@ namespace _3Tier_Lab_25_Oct
         UserBLL userBLL = new UserBLL();
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if(Session["message"] != null)
+            {
+                lblResult.Text = Session["message"].ToString();
+            }
         }
 
         protected void btnLogin_Click(object sender, EventArgs e)
@@ -57,13 +60,6 @@ namespace _3Tier_Lab_25_Oct
             }
 
         }
-
-
-        protected void btnRegisterAdmin_Click(object sender, EventArgs e)
-        {
-            Response.Redirect("~/AdminRegister.aspx");
-        }
-
         protected void btnRegisterEmployee_Click(object sender, EventArgs e)
         {
             Response.Redirect("~/EmployeeRegisterForm.aspx");
@@ -72,6 +68,7 @@ namespace _3Tier_Lab_25_Oct
         protected void btnRegisterCustomer_Click(object sender, EventArgs e)
         {
             Response.Redirect("~/CustomerRegisterForm.aspx");
+            
         }
 
         protected void btnRegisterSupplier_Click(object sender, EventArgs e)
