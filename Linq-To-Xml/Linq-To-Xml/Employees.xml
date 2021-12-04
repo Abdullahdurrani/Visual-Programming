@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee Id="1">
+    <FirstName>umair</FirstName>
+    <LastName>malak</LastName>
+    <Education>bs</Education>
+    <Department>cs</Department>
+    <Salary>40</Salary>
+    <Role>dev</Role>
+  </Employee>
+</Employees>
