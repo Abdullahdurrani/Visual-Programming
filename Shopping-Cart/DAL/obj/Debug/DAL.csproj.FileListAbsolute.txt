@@ -1,0 +1,9 @@
+D:\abdullah\6th Semester\Visual Programming\Shopping-Cart\DAL\bin\Debug\DAL.dll
+D:\abdullah\6th Semester\Visual Programming\Shopping-Cart\DAL\bin\Debug\DAL.pdb
+D:\abdullah\6th Semester\Visual Programming\Shopping-Cart\DAL\bin\Debug\AppProps.dll
+D:\abdullah\6th Semester\Visual Programming\Shopping-Cart\DAL\bin\Debug\AppProps.pdb
+D:\abdullah\6th Semester\Visual Programming\Shopping-Cart\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\abdullah\6th Semester\Visual Programming\Shopping-Cart\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\abdullah\6th Semester\Visual Programming\Shopping-Cart\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\abdullah\6th Semester\Visual Programming\Shopping-Cart\DAL\obj\Debug\DAL.dll
+D:\abdullah\6th Semester\Visual Programming\Shopping-Cart\DAL\obj\Debug\DAL.pdb

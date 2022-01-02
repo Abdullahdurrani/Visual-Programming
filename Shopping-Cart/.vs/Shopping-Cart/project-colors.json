@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "334b2629-02a0-4176-b762-a3d9321466cf": {
+      "ProjectGuid": "334b2629-02a0-4176-b762-a3d9321466cf",
+      "DisplayName": "Shopping-Cart",
+      "ColorIndex": 0
+    },
+    "bf3c0593-2809-4ee6-ba23-9780ca00fdb7": {
+      "ProjectGuid": "bf3c0593-2809-4ee6-ba23-9780ca00fdb7",
+      "DisplayName": "AppProps",
+      "ColorIndex": 1
+    },
+    "8167f0aa-91d5-4c2d-8c3f-fc3c2b08d805": {
+      "ProjectGuid": "8167f0aa-91d5-4c2d-8c3f-fc3c2b08d805",
+      "DisplayName": "BLL",
+      "ColorIndex": 2
+    },
+    "bc0730c1-bf6c-45ae-9bb3-3463a4f2c177": {
+      "ProjectGuid": "bc0730c1-bf6c-45ae-9bb3-3463a4f2c177",
+      "DisplayName": "DAL",
+      "ColorIndex": 3
+    },
+    "79b860f8-1254-4233-950a-8ab99d08d24c": {
+      "ProjectGuid": "79b860f8-1254-4233-950a-8ab99d08d24c",
+      "DisplayName": "Shopping-Cart",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

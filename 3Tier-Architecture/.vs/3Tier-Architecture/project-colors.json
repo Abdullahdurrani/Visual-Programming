@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "833b2b51-f207-4b86-bfef-6fc70ecbd3b4": {
+      "ProjectGuid": "833b2b51-f207-4b86-bfef-6fc70ecbd3b4",
+      "DisplayName": "AppProps",
+      "ColorIndex": 0
+    },
+    "1cc67b78-b38c-4068-a8c2-0e204f518143": {
+      "ProjectGuid": "1cc67b78-b38c-4068-a8c2-0e204f518143",
+      "DisplayName": "BLL",
+      "ColorIndex": 1
+    },
+    "dca22cb4-b0e7-427f-96cb-557c7dc7db3f": {
+      "ProjectGuid": "dca22cb4-b0e7-427f-96cb-557c7dc7db3f",
+      "DisplayName": "Web-Application",
+      "ColorIndex": 2
+    },
+    "df6a21b4-45a4-43f6-9146-e335f775f715": {
+      "ProjectGuid": "df6a21b4-45a4-43f6-9146-e335f775f715",
+      "DisplayName": "DAL",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
