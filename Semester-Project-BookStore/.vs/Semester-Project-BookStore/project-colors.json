@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "27590395-d667-4ba4-8cf6-bd8545b2fa90": {
+      "ProjectGuid": "27590395-d667-4ba4-8cf6-bd8545b2fa90",
+      "DisplayName": "Semester-Project-BookStore",
+      "ColorIndex": 0
+    },
+    "1d6f587a-1764-46cc-8655-aa960c2bd760": {
+      "ProjectGuid": "1d6f587a-1764-46cc-8655-aa960c2bd760",
+      "DisplayName": "AppProps",
+      "ColorIndex": 1
+    },
+    "441727e4-8417-4b2d-b924-f965cc831b33": {
+      "ProjectGuid": "441727e4-8417-4b2d-b924-f965cc831b33",
+      "DisplayName": "DAL",
+      "ColorIndex": 2
+    },
+    "ae4d75a0-5758-4627-af26-58446f63b145": {
+      "ProjectGuid": "ae4d75a0-5758-4627-af26-58446f63b145",
+      "DisplayName": "BLL",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

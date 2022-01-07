@@ -20,7 +20,12 @@
       "ProjectGuid": "df6a21b4-45a4-43f6-9146-e335f775f715",
       "DisplayName": "DAL",
       "ColorIndex": 3
+    },
+    "4d421468-0caf-4252-9b3c-c678a73d28df": {
+      "ProjectGuid": "4d421468-0caf-4252-9b3c-c678a73d28df",
+      "DisplayName": "Windows-Application",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

@@ -1,0 +1,6 @@
+D:\abdullah\6th Semester\Visual Programming\Semester-Project-BookStore\AppProps\bin\Debug\AppProps.dll
+D:\abdullah\6th Semester\Visual Programming\Semester-Project-BookStore\AppProps\bin\Debug\AppProps.pdb
+D:\abdullah\6th Semester\Visual Programming\Semester-Project-BookStore\AppProps\obj\Debug\AppProps.csproj.AssemblyReference.cache
+D:\abdullah\6th Semester\Visual Programming\Semester-Project-BookStore\AppProps\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+D:\abdullah\6th Semester\Visual Programming\Semester-Project-BookStore\AppProps\obj\Debug\AppProps.dll
+D:\abdullah\6th Semester\Visual Programming\Semester-Project-BookStore\AppProps\obj\Debug\AppProps.pdb

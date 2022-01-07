@@ -1,0 +1,11 @@
+D:\abdullah\6th Semester\Visual Programming\Semester-Project-BookStore\BLL\bin\Debug\BLL.dll
+D:\abdullah\6th Semester\Visual Programming\Semester-Project-BookStore\BLL\bin\Debug\BLL.pdb
+D:\abdullah\6th Semester\Visual Programming\Semester-Project-BookStore\BLL\bin\Debug\AppProps.dll
+D:\abdullah\6th Semester\Visual Programming\Semester-Project-BookStore\BLL\bin\Debug\DAL.dll
+D:\abdullah\6th Semester\Visual Programming\Semester-Project-BookStore\BLL\bin\Debug\AppProps.pdb
+D:\abdullah\6th Semester\Visual Programming\Semester-Project-BookStore\BLL\bin\Debug\DAL.pdb
+D:\abdullah\6th Semester\Visual Programming\Semester-Project-BookStore\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\abdullah\6th Semester\Visual Programming\Semester-Project-BookStore\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\abdullah\6th Semester\Visual Programming\Semester-Project-BookStore\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\abdullah\6th Semester\Visual Programming\Semester-Project-BookStore\BLL\obj\Debug\BLL.dll
+D:\abdullah\6th Semester\Visual Programming\Semester-Project-BookStore\BLL\obj\Debug\BLL.pdb

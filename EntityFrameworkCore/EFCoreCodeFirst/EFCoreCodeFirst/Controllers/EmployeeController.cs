@@ -49,7 +49,8 @@ namespace EFCoreCodeFirst.Controllers
             }
             _repo.Add(employee);
             // returns employee object created with 201 status
-            return CreatedAtAction("Get", new { Id = employee.EmployeeId }, employee);
+            return CreatedAtAction("Get", 
+                new { Id = employee.EmployeeId }, employee);
         }
 
         // PUT: api/Employee/5

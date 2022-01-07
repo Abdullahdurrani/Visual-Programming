@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "z/FqCQsN1eQer+++WvjcX1fvszJ9sd9PE5eLAZhRvMyEgQP/lIKJz3ImDpQ9dFj4Iv5HS7wuacxBaBL37creLQ==",
+  "dgSpecHash": "pthhQ5lAsnvsJeZQgJD7nprxLdZKRjsFGeCc2fKKzCIZZNqtj4z88SrH3sasIZJ4H1gvAUGh7oNrF7R7rafaAA==",
   "success": true,
   "projectFilePath": "D:\\abdullah\\6th Semester\\Visual Programming\\EntityFrameworkCore\\EFCoreCodeFirst\\EFCoreCodeFirst\\EFCoreCodeFirst.csproj",
   "expectedPackageFiles": [
@@ -133,7 +133,10 @@
     "C:\\Users\\Abdullah\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Abdullah\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Abdullah\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Abdullah\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Abdullah\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Abdullah\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\Abdullah\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Abdullah\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
